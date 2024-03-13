@@ -1,0 +1,22 @@
+.deals-image {
+    width: 192px;
+    height: 140px;
+    border-radius: 8px;
+    background-size: cover;
+}
+
+.deals-plant1 {
+    background-image: url("../images/deals/string-of-hearts.png");
+}
+
+.deals-plant2 {
+    background-image: url("../images/deals/red-scarlet-alocasia.png");
+}
+
+.deals-plant3 {
+    background-image: url("../images/deals/jewel-alocasia.png");
+}
+
+.deals-plant4 {
+    background-image: url("../images/deals/hoya-retusa.png");
+}

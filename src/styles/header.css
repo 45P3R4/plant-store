@@ -1,0 +1,52 @@
+.header-button {
+  background-color: white;
+  color: black;
+}
+  
+  .nav {
+    display: flex;
+    justify-content: space-around;
+    column-gap: 80px;
+    padding: 10px 0;
+    align-items: center;
+  }
+  
+  .nav__logo {
+    font-size: 26px;
+  }
+  
+  .nav__menu {
+    font-family: "Open Sans";
+    font-size: 17px;
+    font-weight: normal;
+  }
+  
+  .about {
+    background-size: none;
+    background-image: url("../images/plants-bg.png");
+  }
+  
+  .about__container {
+    background-color: rgba(80, 128, 107, 0.2);
+    backdrop-filter: blur(10px);
+    padding: 120px 40px;
+    margin: 0 auto;
+    text-align: center;
+    width: 500px;
+    height: 400px;
+  }
+  
+  .about__main {
+    font-size: 80px;
+    line-height: 100px;
+  }
+  
+  .about__other {
+    font-weight: 400;
+    font-size: 22px;
+  }
+  
+  .about__border {
+    background-color: #50806B;
+    height: 40px;
+  }

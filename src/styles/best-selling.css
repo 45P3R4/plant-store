@@ -1,0 +1,30 @@
+.best-selling-container {
+    margin: 50px auto;
+    display: flex;
+    column-gap: 30px;
+    justify-content: space-around;
+}
+
+.text-over {
+    position: absolute;
+}
+
+.best-selling-image {
+    width: 275px;
+    height: 243px;
+    border-radius: 8px;
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+.indoor-plants {
+    background-image: url("../images/best-selling/indoor-plants.png");
+}
+
+.air-purifying-plants {
+    background-image: url("../images/best-selling/air-purifying-plants.png");
+}
+
+.flowering-plants {
+    background-image: url("../images/best-selling/flowering-plants.png");
+}
