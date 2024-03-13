@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/45P3R4/plant-store/static/css/main.3229ff0b.css",
+    "main.js": "/45P3R4/plant-store/static/js/main.d06a788a.js",
+    "static/media/plants-bg.png": "/45P3R4/plant-store/static/media/plants-bg.1fca7c0bf3c883936944.png",
+    "static/media/flowering-plants.png": "/45P3R4/plant-store/static/media/flowering-plants.74a37265d3aab27e4043.png",
+    "static/media/air-purifying-plants.png": "/45P3R4/plant-store/static/media/air-purifying-plants.3afc79ee97cd21b33944.png",
+    "static/media/indoor-plants.png": "/45P3R4/plant-store/static/media/indoor-plants.c8c73e1d59c151214bfd.png",
+    "static/media/syngonium-rayuji.png": "/45P3R4/plant-store/static/media/syngonium-rayuji.bd318654fc1530cf7111.png",
+    "static/media/pothos.png": "/45P3R4/plant-store/static/media/pothos.f88631737af72c146195.png",
+    "static/media/hoya-retusa.png": "/45P3R4/plant-store/static/media/hoya-retusa.fa9d8a274115be0cde9b.png",
+    "static/media/string-of-hearts.png": "/45P3R4/plant-store/static/media/string-of-hearts.47bc90499959959a2e7d.png",
+    "static/media/red-scarlet-alocasia.png": "/45P3R4/plant-store/static/media/red-scarlet-alocasia.b0df6259f32f0dfee668.png",
+    "static/media/marble-queen.png": "/45P3R4/plant-store/static/media/marble-queen.cda555893afc99341a14.png",
+    "static/media/jewel-alocasia.png": "/45P3R4/plant-store/static/media/jewel-alocasia.fad6e72630ca74cca8ac.png",
+    "static/media/seeds.png": "/45P3R4/plant-store/static/media/seeds.ceba85e3db544a04b723.png",
+    "static/media/neon-pothos.png": "/45P3R4/plant-store/static/media/neon-pothos.76986942d9bba735fce1.png",
+    "static/media/chinese-evergreen.png": "/45P3R4/plant-store/static/media/chinese-evergreen.f0eaa52d09889e6def1b.png",
+    "static/media/african-milk-tree.png": "/45P3R4/plant-store/static/media/african-milk-tree.6f3a8bf9d8267c1f1c56.png",
+    "static/media/creepers.png": "/45P3R4/plant-store/static/media/creepers.e714221ec4802cd9734d.png",
+    "static/media/gifts.png": "/45P3R4/plant-store/static/media/gifts.2e926af071ac4672a873.png",
+    "static/media/pineapple.png": "/45P3R4/plant-store/static/media/pineapple.cbddcd60e87bb5725ad5.png",
+    "static/media/peruvian-cactus.png": "/45P3R4/plant-store/static/media/peruvian-cactus.d7ac6cb4d0ad146ee7b2.png",
+    "static/media/succulents.png": "/45P3R4/plant-store/static/media/succulents.40f11789352b3990cce2.png",
+    "static/media/cacti.png": "/45P3R4/plant-store/static/media/cacti.39fbcc7d569a4e917a9d.png",
+    "static/media/bonsai.png": "/45P3R4/plant-store/static/media/bonsai.4483980f8d32e4a7e6b6.png",
+    "static/media/person2.png": "/45P3R4/plant-store/static/media/person2.1b38ac946b5773ea522e.png",
+    "index.html": "/45P3R4/plant-store/index.html",
+    "main.3229ff0b.css.map": "/45P3R4/plant-store/static/css/main.3229ff0b.css.map",
+    "main.d06a788a.js.map": "/45P3R4/plant-store/static/js/main.d06a788a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3229ff0b.css",
+    "static/js/main.d06a788a.js"
+  ]
+}
