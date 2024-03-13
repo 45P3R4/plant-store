@@ -38,12 +38,14 @@
   
   .about__main {
     font-size: 80px;
-    line-height: 100px;
+    line-height: 80px;
   }
   
   .about__other {
     font-weight: 400;
     font-size: 22px;
+    width: 450px;
+    margin: 50px auto;
   }
   
   .about__border {
