@@ -3,7 +3,10 @@ import '../styles/best-selling.css';
 function ProductCard(imgId) {
     return (
         <div className="product-card">
-            <img alt='img' className='best-selling-image' src={require('../images/best-selling/' + imgId.imgId + '.png')} />
+            <div className='best-selling-img-container'>
+                <div className='text-over'>{imgId.imgId}</div>
+                <img alt='img' className='best-selling-image' src={require('../images/best-selling/' + imgId.imgId + '.png')} />
+            </div>
             <button>Shop now</button>
         </div>
     )

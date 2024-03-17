@@ -9,15 +9,6 @@
     column-gap: 20px;
 }
 
-.best-selling-card {
-    color: #343434;
-    text-transform: uppercase;
-    font-family: "Open Sans", sans-serif;
-    font-weight: bold;
-    font-size: 16px;
-    letter-spacing: 4px;
-    text-align: center;
-}
 
 .category-picture {
     width: 150px;
@@ -26,4 +17,10 @@
     background-size: cover;
     margin: 20px 0;
     box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.1);
+    transition: scale 0.1s ease-in-out;
+}
+
+.category-picture:hover {
+    scale: 105%;
+    cursor: pointer;
 }

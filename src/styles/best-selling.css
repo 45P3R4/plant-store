@@ -1,4 +1,5 @@
 .best-selling-container {
+    position: relative;
     margin: 50px auto;
     display: flex;
     column-gap: 30px;
@@ -6,7 +7,33 @@
 }
 
 .text-over {
+    text-transform: uppercase;
+    letter-spacing: 4pt;
+    font-family: "Open Sans", sans-serif;
+    font-size: 24px;
+    color: white;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     position: absolute;
+    text-align: center;
+    text-anchor: middle;
+    padding: 10px;
+}
+
+.best-selling-card {
+    color: #343434;
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+.best-selling-img-container {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
 }
 
 .best-selling-image {
