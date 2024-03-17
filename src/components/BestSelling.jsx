@@ -1,20 +1,22 @@
+import '../styles/best-selling.css';
+
+function ProductCard(imgId) {
+    return (
+        <div className="product-card">
+            <img alt='img' className='best-selling-image' src={require('../images/best-selling/' + imgId.imgId + '.png')} />
+            <button>Shop now</button>
+        </div>
+    )
+}
+
 function BestSelling() {
-    return(
+    return (
         <div className="container">
             <div className="section-name"><span className="highlight-word">Best </span>Selling</div>
             <div className="product-container">
-                <div className="product-card">
-                    <div className="best-selling-image indoor-plants"></div>
-                    <button>Shop now</button>
-                </div>
-                <div className="product-card">
-                    <div className="best-selling-image air-purifying-plants"></div>
-                    <button>Shop now</button>
-                </div>
-                <div className="product-card">
-                    <div className="best-selling-image flowering-plants"></div>
-                    <button>Shop now</button>
-                </div>
+                <ProductCard imgId={'indoor-plants'} />
+                <ProductCard imgId={'air-purifying-plants'} />
+                <ProductCard imgId={'flowering-plants'} />
             </div>
         </div>
     )

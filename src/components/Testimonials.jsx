@@ -1,3 +1,5 @@
+import '../styles/testimonials.css';
+
 function Testimonials() {
     return (
         <div className="color-section">

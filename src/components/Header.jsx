@@ -1,22 +1,36 @@
+import './../styles/header.css';
+
+function FreeShipping() {
+    return (
+        <div className="green-bar">
+        <div className="container">
+        FREE SHIPPING ON ALL FULL SUN PLANTS! FEB. 25–28.
+        </div>
+    </div>
+    )
+}
+
+function NavigationBar() {
+    return (
+        <nav className="nav">
+            <div className="nav__logo">
+                <span className="highlight-word">Green</span> Thumb
+            </div>
+            <a href="#!" className="nav__menu">Home</a>
+            <a href="#!" className="nav__menu">Products</a>
+            <a href="#!" className="nav__menu">About us</a>
+            <a href="#!" className="nav__menu">Contact us</a>
+            <a href="#!" className="nav__menu">Search</a>
+        </nav>
+    )
+}
+
 function Header() {
     return (
         <header>
-            <div className="green-bar">
-                <div className="container">
-                FREE SHIPPING ON ALL FULL SUN PLANTS! FEB. 25–28.
-                </div>
-            </div>
+           <FreeShipping />
             <div className="container">
-                <nav className="nav">
-                    <div className="nav__logo">
-                        <span className="highlight-word">Green</span> Thumb
-                    </div>
-                    <div className="nav__menu">Home</div>
-                    <div className="nav__menu">Products</div>
-                    <div className="nav__menu">About us</div>
-                    <div className="nav__menu">Contact us</div>
-                    <div className="nav__menu">Search</div>
-                </nav>
+                <NavigationBar />
             </div>
             <div className="about">
                 <div className="about__container">

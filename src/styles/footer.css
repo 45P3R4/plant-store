@@ -8,6 +8,8 @@
 }
 
 .footer-menu {
+    color: black;
+    text-decoration: none;
     font-family: "Roboto";
     font-size: 16px;
     font-weight: 500;

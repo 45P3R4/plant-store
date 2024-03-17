@@ -36,13 +36,6 @@ button:hover {
   text-align: center;
 }
 
-.product-container {
-  margin: 50px auto;
-  display: flex;
-  column-gap: 30px;
-  justify-content: space-around;
-}
-
 .section-name {
   font-size: 56px;
   border-bottom: 1px solid black;
@@ -58,6 +51,13 @@ button:hover {
   color: #50806B;
 }
 
+.product-container {
+  margin: 50px auto;
+  display: flex;
+  column-gap: 30px;
+  justify-content: space-around;
+}
+
 .product-card {
   background-color: white;
   border-radius: 8px;
@@ -66,6 +66,7 @@ button:hover {
 }
 
 .product-name {
+  text-transform: capitalize;
   margin-top: 7px;
   line-height: 30px;
   font-family: "Open Sans", sans-serif;
