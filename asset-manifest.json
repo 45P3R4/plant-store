@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/plant-store/static/css/main.ebd2c7b1.css",
+    "main.css": "/plant-store/static/css/main.558d66a2.css",
     "main.js": "/plant-store/static/js/main.3bbacf94.js",
     "static/media/plants-bg.png": "/plant-store/static/media/plants-bg.1fca7c0bf3c883936944.png",
     "static/media/flowering-plants.png": "/plant-store/static/media/flowering-plants.74a37265d3aab27e4043.png",
@@ -26,11 +26,11 @@
     "static/media/bonsai.png": "/plant-store/static/media/bonsai.4483980f8d32e4a7e6b6.png",
     "static/media/person2.png": "/plant-store/static/media/person2.1b38ac946b5773ea522e.png",
     "index.html": "/plant-store/index.html",
-    "main.ebd2c7b1.css.map": "/plant-store/static/css/main.ebd2c7b1.css.map",
+    "main.558d66a2.css.map": "/plant-store/static/css/main.558d66a2.css.map",
     "main.3bbacf94.js.map": "/plant-store/static/js/main.3bbacf94.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebd2c7b1.css",
+    "static/css/main.558d66a2.css",
     "static/js/main.3bbacf94.js"
   ]
 }
